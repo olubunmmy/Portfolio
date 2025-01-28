@@ -9,6 +9,8 @@ With hands-on experience in data analysis, I am adept at interpreting complex da
 - Risk Assessment
 - Incident Response
 ## Projects
+### Projects in Cybersecurity
+-Incident response
 ### Project in Data Analysis
  -  https://github.com/olubunmmy/LITA-Capstone-Project-1
 - Project Name 2: Brief description of the project.

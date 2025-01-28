@@ -15,6 +15,9 @@ With hands-on experience in data analysis, I am adept at interpreting complex da
 ## Education & Certifications
 - Google Cybersecurity Certification (in progress)
 - ISC2 CISSP Candidate (training)
+- HP LIfe/HP Foundation Certification: Introduction to Cybersecurity Awareness
+- HP Life/HP Foundation Certification:Data Science and Analytics
+- The Incubator Hub certification in Data Analysis
 ## Contact
 For inquiries or collaboration opportunities, please reach out via [bunmiadesanmi8@gmail.com/https://www.linkedin.com/in/olubunmi-adesanmi/].
 

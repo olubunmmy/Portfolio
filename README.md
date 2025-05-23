@@ -1,8 +1,13 @@
 
 # My Professional Portfolio
 # Professional Statement
-Aspiring Cybersecurity Analyst with a solid foundation in data analysis, currently pursuing a Google Cybersecurity Certification and training as an ISC2 candidate for the Certified Information Systems Security Professional (CISSP) credential. I have a keen interest in leveraging my analytical skills to identify vulnerabilities and enhance security measures.
-With hands-on experience in data analysis, I am adept at interpreting complex datasets to derive actionable insights. My background enables me to understand the significance of data in bolstering cybersecurity strategies and risk management. I am eager to apply my growing knowledge in cybersecurity principles, threat detection, and incident response while contributing positively to an organization's security posture.
+Aspiring Cybersecurity GRC Professional with a strong foundation in data analysis and a growing specialization in Governance, Risk, and Compliance. I recently earned the Google Cybersecurity Certificate and am actively training as an ISC2 Certified in Cybersecurity (CC) candidate.
+
+My journey into cybersecurity is driven by a deep interest in aligning technical insights with organizational compliance and risk management. I’m building practical experience using industry-standard tools like ServiceNow, Qualys Policy Compliance, and other platforms that support effective security governance.
+
+With hands-on experience in data analysis, I bring the ability to interpret complex datasets and transform them into meaningful insights that strengthen security strategies. I'm particularly focused on areas such as control implementation, compliance reporting, and continuous monitoring.
+
+I'm eager to continue growing within the GRC domain—contributing to secure, resilient, and audit-ready environments.
 ## Skills
 - Data Analysis
 - Cybersecurity Principles

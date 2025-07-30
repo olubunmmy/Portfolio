@@ -58,6 +58,7 @@ If you're looking for a motivated beginner with a strong work ethic, a love for 
 -  Email: bunmiadesanmi8@gmail.com  
 -  LinkedIn: [linkedin.com/in/olubunmi-adesanmi](https://www.linkedin.com/in/olubunmi-adesanmi/)  
 -  GitHub: [github.com/olubunmmy](https://github.com/olubunmmy)
+-  Resume:
 
 ---
 

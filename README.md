@@ -56,8 +56,8 @@ I’m focused on refining my skills in **Python and SQL**, advancing in **GRC fr
 If you're looking for a motivated beginner with a strong work ethic, a love for learning, and a hunger to contribute—let’s connect:
 
 -  Email: bunmiadesanmi8@gmail.com  
--  LinkedIn: [linkedin.com/in/bunmiadesanmi](https://www.linkedin.com/in/olubunmi-adesanmi/)  
--  GitHub: [github.com/YourUsername](https://github.com/olubunmmy)
+-  LinkedIn: [linkedin.com/in/olubunmi-adesanmi](https://www.linkedin.com/in/olubunmi-adesanmi/)  
+-  GitHub: [github.com/olubunmmy](https://github.com/olubunmmy)
 
 ---
 

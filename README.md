@@ -6,9 +6,9 @@ Cybersecurity Portfolio
 
 I’m **Adesanmi Bunmi**, an early-career cybersecurity professional with a deep curiosity for how technology works and how it can be protected. In just six months, I’ve immersed myself in real-world labs, built a home cybersecurity lab from scratch, and earned globally recognized certifications to build a solid technical foundation.
 
-My passion lies at the crossroads of **AI and Cybersecurity**, with a growing specialization in **Governance, Risk, and Compliance (GRC)**. I believe cybersecurity isn’t just about defense—it’s about strategy, foresight, and responsible innovation.
+My passion lies at the crossroads of **AI and Cybersecurity**, with a growing specialization in **Governance, Risk, and Compliance (GRC)**. I believe cybersecurity isn’t just about defense it’s about strategy, foresight, and responsible innovation.
 
-To further strengthen my understanding of secure systems and automation, I am currently pursuing a **program in Software Development**. This complements my cybersecurity journey by enhancing my ability to build secure applications, analyze code-level vulnerabilities, and develop custom tools for risk management and threat mitigation.
+To further strengthen my understanding of secure systems and automation, I am currently pursuing a **program in Software Development**. This complements my cybersecurity journey by enhancing my ability to build secure applications, analyze code level vulnerabilities, and develop custom tools for risk management and threat mitigation.
 
 ---
 
@@ -53,7 +53,7 @@ I’m focused on refining my skills in **Python and SQL**, advancing in **GRC fr
 
 ## Let’s Connect
 
-If you're looking for a motivated beginner with a strong work ethic, a love for learning, and a hunger to contribute—let’s connect:
+If you're looking for a motivated beginner with a strong work ethic, a love for learning, and a hunger to contribute let’s connect:
 
 -  Email: bunmiadesanmi8@gmail.com  
 -  LinkedIn: [linkedin.com/in/olubunmi-adesanmi](https://www.linkedin.com/in/olubunmi-adesanmi/)  

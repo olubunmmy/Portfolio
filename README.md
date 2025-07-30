@@ -4,7 +4,7 @@ Cybersecurity Portfolio
 
 ##  About Me
 
-I’m **Adesanmi Bunmi**, an early-career cybersecurity professional with a deep curiosity for how technology works—and how it can be protected. In just six months, I’ve immersed myself in real-world labs, built a home cybersecurity lab from scratch, and earned globally recognized certifications to build a solid technical foundation.
+I’m **Adesanmi Bunmi**, an early-career cybersecurity professional with a deep curiosity for how technology works and how it can be protected. In just six months, I’ve immersed myself in real-world labs, built a home cybersecurity lab from scratch, and earned globally recognized certifications to build a solid technical foundation.
 
 My passion lies at the crossroads of **AI and Cybersecurity**, with a growing specialization in **Governance, Risk, and Compliance (GRC)**. I believe cybersecurity isn’t just about defense—it’s about strategy, foresight, and responsible innovation.
 
